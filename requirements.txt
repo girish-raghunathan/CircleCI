@@ -7,3 +7,5 @@ pytest-doctestplus==0.4.0
 pytest-flask==1.0.0
 pytest-openfiles==0.4.0
 pytest-remotedata==0.3.2
+psycopg2==2.8.4
+
